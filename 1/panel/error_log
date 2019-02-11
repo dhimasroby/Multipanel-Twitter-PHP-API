@@ -1,0 +1,4 @@
+[26-Jun-2014 18:44:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/gretong1/public_html/dhimaz.cf/twitter.com/1/panel/Masstweet.php on line 5
+[26-Jun-2014 18:44:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/gretong1/public_html/dhimaz.cf/twitter.com/1/panel/autospamer.php on line 5
+[26-Jun-2014 18:44:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/gretong1/public_html/dhimaz.cf/twitter.com/1/panel/autoblock.php on line 5
+[26-Jun-2014 18:44:49 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/gretong1/public_html/dhimaz.cf/twitter.com/1/panel/autoUblock.php on line 5
